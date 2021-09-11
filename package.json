@@ -1,0 +1,23 @@
+{
+  "name": "remove_dotspace_Desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevAndreAkira/remove_dotspace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevAndreAkira/remove_dotspace/issues"
+  },
+  "homepage": "https://github.com/DevAndreAkira/remove_dotspace#readme",
+  "devDependencies": {
+    "electron": "^14.0.0"
+  }
+}
